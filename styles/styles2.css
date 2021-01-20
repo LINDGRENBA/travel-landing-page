@@ -50,6 +50,7 @@ header {
 }
 
 button {
+  margin-left: 20px;
   padding: 9px 25px;
   background-color: rgba(0, 136, 169, 0.7);
   border: none;
