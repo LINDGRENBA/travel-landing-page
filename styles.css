@@ -9,6 +9,10 @@ html, body {
   background-size: cover;
   background-color: #a63c06;
   background-blend-mode: lighten;
+}
+
+
+  /* other blend effects and colors that that worked well */
   /* 
   like sunshine
   background-color: #f4d06f;
@@ -26,4 +30,3 @@ html, body {
   background-color: #1982c4;
   background-blend-mode: color-dodge; */
   /* 
-}
