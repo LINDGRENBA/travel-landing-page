@@ -79,7 +79,7 @@ button:hover {
 .blended-img {
   width: 100vw;
   height: 100vh;
-  background: url(./images/grand-mosque.jpg);
+  background: url(./../images/grand-mosque.jpg);
   background-size: cover;
   background-color: #a63c06;
   background-blend-mode: lighten;
