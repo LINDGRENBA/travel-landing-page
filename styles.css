@@ -1,0 +1,29 @@
+html, body {
+  margin: 0;
+}
+
+.blended-img {
+  width: 100vw;
+  height: 100vh;
+  background: url(./grand-mosque.jpg);
+  background-size: cover;
+  background-color: #a63c06;
+  background-blend-mode: lighten;
+  /* 
+  like sunshine
+  background-color: #f4d06f;
+  background-blend-mode: overlay; */
+  /* 
+  on fire!
+  background-color: #ff595e;
+  background-blend-mode: hard-light; */
+  /* 
+  saturated effect
+  background-color: #6a4c93;
+  background-blend-mode: hard-light; */
+  /* 
+  cool, very trippy
+  background-color: #1982c4;
+  background-blend-mode: color-dodge; */
+  /* 
+}
